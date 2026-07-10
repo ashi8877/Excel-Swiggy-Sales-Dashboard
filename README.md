@@ -6,7 +6,7 @@ Interactive Swiggy Sales Dashboard created using Microsoft Excel.
 
 ## Dashboard Preview
 
-[Swiggy Sales Dashboard](Dashboard.png)
+![Swiggy Dashboard](Dashboard.png)
 
 
 ## Project Overview
