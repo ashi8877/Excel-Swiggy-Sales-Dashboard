@@ -3,12 +3,6 @@ Interactive Swiggy Sales Dashboard created using Microsoft Excel.
 # Swiggy Sales Dashboard (Excel)
 
 # Retail Inventory & Demand Analysis Dashboard
-
-## Dashboard Preview
-
-![Swiggy Dashboard](Dashboard.png)
-
-
 ## Project Overview
 
 This is an interactive Swiggy Sales Dashboard created using Microsoft Excel.
